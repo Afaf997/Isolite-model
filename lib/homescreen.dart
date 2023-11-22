@@ -44,5 +44,10 @@ class _HomescreenState extends State<Homescreen> {
     }
     print("task finished");
     sendPort.send(sum);
-    
+    // huuu
+
   }
+
+sample(){
+  print('hi');
+}
